@@ -152,7 +152,7 @@
     },
     {
         "id": 7,
-        "name": "node_modules",
+        "name": "node_modulo",
         "type": "folder",
         "children": [
             {
