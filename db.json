@@ -7,47 +7,49 @@
     },
     {
         "id": 2,
-        "name": "node_modules",
+        "name": "dossier_niveau_1",
         "type": "folder",
         "children": [
             {
                 "id": 1,
-                "name": "path",
+                "name": "sous_dossier1",
                 "type": "folder",
-                "children": [
-                    {
-                        "id": 1,
-                        "type": "file",
-                        "name": "path.js"
-                    },
-                    {
-                        "id": 2,
-                        "type": "file",
-                        "name": "package.json"
-                    },
-                    {
-                        "id": 3,
-                        "type": "file",
-                        "name": "README.md"
-                    }
-                ]
+                "children": [{"id": 1, "type": "file", "name": "file.pdf"}]
+            },
+            {
+                "id": 2,
+                "name": "dossier_niveau_2",
+                "type": "folder",
+                "children": [{"id": 1, "type": "file", "name": "test.js"}]
+            },
+            {
+                "id": 3,
+                "name": "dossier_niveau_2",
+                "type": "folder",
+                "children": [{"id": 1, "type": "file", "name": "exemple.docx"}]
+            },
+            {
+                "id": 4,
+                "name": "dossier_niveau_2",
+                "type": "folder",
+                "children": [{"id": 1, "type": "file", "name": "file.js"}]
             }
         ]
     },
     {
         "id": 3,
-        "name": "node_modules",
+        "name": "dossier_niveau_1",
         "type": "folder",
         "children": [
             {
                 "id": 1,
-                "name": "path",
+                "name": "dossier_niveau_2n",
                 "type": "folder",
                 "children": [
                     {
                         "id": 1,
                         "type": "file",
-                        "name": "path.js"
+                        "name": "file.pdf"
                     },
                     {
                         "id": 2,
@@ -65,18 +67,18 @@
     },
     {
         "id": 4,
-        "name": "node_modules",
+        "name": "dossier_niveau_1",
         "type": "folder",
         "children": [
             {
                 "id": 1,
-                "name": "path",
+                "name": "dossier_niveau_2",
                 "type": "folder",
                 "children": [
                     {
                         "id": 1,
                         "type": "file",
-                        "name": "path.js"
+                        "name": "file.js"
                     },
                     {
                         "id": 2,
@@ -94,18 +96,18 @@
     },
     {
         "id": 5,
-        "name": "node_modules",
+        "name": "dossier_niveau_1",
         "type": "folder",
         "children": [
             {
                 "id": 1,
-                "name": "path",
+                "name": "dossier_niveau_2",
                 "type": "folder",
                 "children": [
                     {
                         "id": 1,
                         "type": "file",
-                        "name": "path.js"
+                        "name": "file.pdf"
                     },
                     {
                         "id": 2,
@@ -123,18 +125,18 @@
     },
     {
         "id": 6,
-        "name": "node_modules",
+        "name": "dossier_niveau_1",
         "type": "folder",
         "children": [
             {
                 "id": 1,
-                "name": "path",
+                "name": "dossier_niveau_2",
                 "type": "folder",
                 "children": [
                     {
                         "id": 1,
                         "type": "file",
-                        "name": "path.js"
+                        "name": "file.pdf"
                     },
                     {
                         "id": 2,
@@ -157,13 +159,13 @@
         "children": [
             {
                 "id": 1,
-                "name": "pathounet",
+                "name": "dossier_niveau_2",
                 "type": "folder",
                 "children": [
                     {
                         "id": 1,
                         "type": "file",
-                        "name": "path.js"
+                        "name": "file.pdf"
                     },
                     {
                         "id": 2,
