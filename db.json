@@ -33,6 +33,151 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 3,
+        "name": "node_modules",
+        "type": "folder",
+        "children": [
+            {
+                "id": 1,
+                "name": "path",
+                "type": "folder",
+                "children": [
+                    {
+                        "id": 1,
+                        "type": "file",
+                        "name": "path.js"
+                    },
+                    {
+                        "id": 2,
+                        "type": "file",
+                        "name": "package.json"
+                    },
+                    {
+                        "id": 3,
+                        "type": "file",
+                        "name": "README.md"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "node_modules",
+        "type": "folder",
+        "children": [
+            {
+                "id": 1,
+                "name": "path",
+                "type": "folder",
+                "children": [
+                    {
+                        "id": 1,
+                        "type": "file",
+                        "name": "path.js"
+                    },
+                    {
+                        "id": 2,
+                        "type": "file",
+                        "name": "package.json"
+                    },
+                    {
+                        "id": 3,
+                        "type": "file",
+                        "name": "README.md"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "node_modules",
+        "type": "folder",
+        "children": [
+            {
+                "id": 1,
+                "name": "path",
+                "type": "folder",
+                "children": [
+                    {
+                        "id": 1,
+                        "type": "file",
+                        "name": "path.js"
+                    },
+                    {
+                        "id": 2,
+                        "type": "file",
+                        "name": "package.json"
+                    },
+                    {
+                        "id": 3,
+                        "type": "file",
+                        "name": "README.md"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "node_modules",
+        "type": "folder",
+        "children": [
+            {
+                "id": 1,
+                "name": "path",
+                "type": "folder",
+                "children": [
+                    {
+                        "id": 1,
+                        "type": "file",
+                        "name": "path.js"
+                    },
+                    {
+                        "id": 2,
+                        "type": "file",
+                        "name": "package.json"
+                    },
+                    {
+                        "id": 3,
+                        "type": "file",
+                        "name": "README.md"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "node_modules",
+        "type": "folder",
+        "children": [
+            {
+                "id": 1,
+                "name": "path",
+                "type": "folder",
+                "children": [
+                    {
+                        "id": 1,
+                        "type": "file",
+                        "name": "path.js"
+                    },
+                    {
+                        "id": 2,
+                        "type": "file",
+                        "name": "package.json"
+                    },
+                    {
+                        "id": 3,
+                        "type": "file",
+                        "name": "README.md"
+                    }
+                ]
+            }
+        ]
     }
 ]
 }
