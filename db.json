@@ -14,7 +14,7 @@
                 "id": 1,
                 "name": "sous_dossier1",
                 "type": "folder",
-                "children": [{"id": 1, "type": "file", "name": "file.pdf"}]
+                "children": [{"id": 1, "type": "file", "name": "file.pdf"},{"id": 2, "type": "file", "name": "fichier.ext"},{"id": 3, "type": "file", "name": "document_example.docx"},{"id": 1, "type": "file", "name": "file.pdf"},{"id": 1, "type": "file", "name": "file.pdf"},{"id": 4, "type": "file", "name": "maquette_exemple.psd"}]
             },
             {
                 "id": 2,
