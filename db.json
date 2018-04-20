@@ -1,0 +1,38 @@
+{
+   "test": [
+    {
+        "id": 1,
+        "type": "file",
+        "name": "index.js"
+    },
+    {
+        "id": 2,
+        "name": "node_modules",
+        "type": "folder",
+        "children": [
+            {
+                "id": 1,
+                "name": "path",
+                "type": "folder",
+                "children": [
+                    {
+                        "id": 1,
+                        "type": "file",
+                        "name": "path.js"
+                    },
+                    {
+                        "id": 2,
+                        "type": "file",
+                        "name": "package.json"
+                    },
+                    {
+                        "id": 3,
+                        "type": "file",
+                        "name": "README.md"
+                    }
+                ]
+            }
+        ]
+    }
+]
+}
